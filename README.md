@@ -9,3 +9,6 @@ multi-layer images such as exported by blender.
 for this plugin to work, you also need the djv tools (djv-info and 
 djv-convert) installed and correctly running on your system 
 ( http://djv.sourceforge.net )
+
+Check http://yorik.uncreated.net/guestblog.php?2011=67 for 
+example and instructions.
